@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.2368eb95.chunk.css",
-    "main.js": "/static/js/main.110d0dbd.chunk.js",
-    "main.js.map": "/static/js/main.110d0dbd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c4b24afa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c4b24afa.js.map",
-    "static/js/2.88f00f74.chunk.js": "/static/js/2.88f00f74.chunk.js",
-    "static/js/2.88f00f74.chunk.js.map": "/static/js/2.88f00f74.chunk.js.map",
-    "static/js/3.da8769b1.chunk.js": "/static/js/3.da8769b1.chunk.js",
-    "static/js/3.da8769b1.chunk.js.map": "/static/js/3.da8769b1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d2b1b859bafdf722bd9419d09a1fbcd9.js": "/precache-manifest.d2b1b859bafdf722bd9419d09a1fbcd9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2368eb95.chunk.css.map": "/static/css/main.2368eb95.chunk.css.map",
-    "static/js/2.88f00f74.chunk.js.LICENSE.txt": "/static/js/2.88f00f74.chunk.js.LICENSE.txt",
-    "static/js/3.da8769b1.chunk.js.LICENSE.txt": "/static/js/3.da8769b1.chunk.js.LICENSE.txt",
-    "static/media/end_of_long_pause.mp3": "/static/media/end_of_long_pause.5cf7421f.mp3",
-    "static/media/end_of_pause.mp3": "/static/media/end_of_pause.dbe9517a.mp3",
-    "static/media/end_of_work.mp3": "/static/media/end_of_work.a31529e4.mp3"
+    "main.css": "https://pomodoro.app.br/static/css/main.2368eb95.chunk.css",
+    "main.js": "https://pomodoro.app.br/static/js/main.f3c17bbf.chunk.js",
+    "main.js.map": "https://pomodoro.app.br/static/js/main.f3c17bbf.chunk.js.map",
+    "runtime-main.js": "https://pomodoro.app.br/static/js/runtime-main.e63b5b7a.js",
+    "runtime-main.js.map": "https://pomodoro.app.br/static/js/runtime-main.e63b5b7a.js.map",
+    "static/js/2.15b7be95.chunk.js": "https://pomodoro.app.br/static/js/2.15b7be95.chunk.js",
+    "static/js/2.15b7be95.chunk.js.map": "https://pomodoro.app.br/static/js/2.15b7be95.chunk.js.map",
+    "static/js/3.da8769b1.chunk.js": "https://pomodoro.app.br/static/js/3.da8769b1.chunk.js",
+    "static/js/3.da8769b1.chunk.js.map": "https://pomodoro.app.br/static/js/3.da8769b1.chunk.js.map",
+    "index.html": "https://pomodoro.app.br/index.html",
+    "precache-manifest.402d2edb0fe8468af13e5ad68069c593.js": "https://pomodoro.app.br/precache-manifest.402d2edb0fe8468af13e5ad68069c593.js",
+    "service-worker.js": "https://pomodoro.app.br/service-worker.js",
+    "static/css/main.2368eb95.chunk.css.map": "https://pomodoro.app.br/static/css/main.2368eb95.chunk.css.map",
+    "static/js/2.15b7be95.chunk.js.LICENSE.txt": "https://pomodoro.app.br/static/js/2.15b7be95.chunk.js.LICENSE.txt",
+    "static/js/3.da8769b1.chunk.js.LICENSE.txt": "https://pomodoro.app.br/static/js/3.da8769b1.chunk.js.LICENSE.txt",
+    "static/media/end_of_long_pause.mp3": "https://pomodoro.app.br/static/media/end_of_long_pause.5cf7421f.mp3",
+    "static/media/end_of_pause.mp3": "https://pomodoro.app.br/static/media/end_of_pause.dbe9517a.mp3",
+    "static/media/end_of_work.mp3": "https://pomodoro.app.br/static/media/end_of_work.a31529e4.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4b24afa.js",
-    "static/js/2.88f00f74.chunk.js",
+    "static/js/runtime-main.e63b5b7a.js",
+    "static/js/2.15b7be95.chunk.js",
     "static/css/main.2368eb95.chunk.css",
-    "static/js/main.110d0dbd.chunk.js"
+    "static/js/main.f3c17bbf.chunk.js"
   ]
 }
